@@ -27,5 +27,4 @@ const mergeWords = () => {
 </script>
 
 <style scoped>
-// ...existing code...
 </style>

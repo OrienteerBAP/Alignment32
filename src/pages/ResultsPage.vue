@@ -14,5 +14,4 @@ const coreInsight = store.coreInsight;
 </script>
 
 <style scoped>
-// ...existing code...
 </style>

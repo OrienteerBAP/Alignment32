@@ -29,5 +29,4 @@ const nextStep = () => {
 </script>
 
 <style scoped>
-// ...existing code...
 </style>

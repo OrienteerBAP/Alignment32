@@ -15,5 +15,4 @@ const step = ref(1);
 </script>
 
 <style scoped>
-// ...existing code...
 </style>
